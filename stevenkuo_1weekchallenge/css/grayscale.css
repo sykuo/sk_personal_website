@@ -125,7 +125,7 @@ a:focus {
   text-align: center;
   color: white;
   /*background: url(../img/intro-bg.jpg) no-repeat bottom center scroll;*/
-  /*background: url(../img/intro-bg4.png) no-repeat bottom center scroll;*/
+  background: url(../img/affinity-diagram.png) no-repeat bottom center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
