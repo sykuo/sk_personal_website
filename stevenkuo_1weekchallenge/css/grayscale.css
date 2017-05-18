@@ -360,6 +360,6 @@ body {
   cursor: url(../img/sphere-cursor.png), auto;
 }
 
-#download{
-  cursor: url(../img/sphere-cursor.png), auto;
+.funstuff{
+  cursor: url(../img/classic-gamecontroller.png), auto;
 }
