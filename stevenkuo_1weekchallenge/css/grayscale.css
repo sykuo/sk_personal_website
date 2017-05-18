@@ -352,3 +352,14 @@ body {
   height:100%;
   margin-right: 10px;
 }
+
+.about-content{
+  cursor: url(../img/sphere-cursor.png), auto;
+}
+#about{
+  cursor: url(../img/sphere-cursor.png), auto;
+}
+
+#download{
+  cursor: url(../img/sphere-cursor.png), auto;
+}
