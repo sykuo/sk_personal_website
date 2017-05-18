@@ -225,7 +225,8 @@ a:focus {
   width: 100%;
   padding: 50px 0;
   color: white;
-  /*background: url(../img/downloads-bg.jpg) no-repeat center center scroll;*/
+  /*background: url(../img/downloads-bg.jpg) no-repeat center center scrol;*/
+  background: url(../img/fun-stuff-bg.png) no-repeat center center scroll;
   background-color: black;
   background-color: #757575;
   -webkit-background-size: cover;
@@ -339,9 +340,10 @@ body {
 }
 
 .highlight-text{
-  text-decoration: underline;
+  /*text-decoration: underline;
   -moz-text-decoration-color: #42DCA3;
-  text-decoration-color: #42DCA3;
+  text-decoration-color: #42DCA3;*/
+  background-color: #3acfd5;
 }
 
 .navbar-custom .navbar-brand img {
