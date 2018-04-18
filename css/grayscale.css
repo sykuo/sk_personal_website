@@ -356,12 +356,12 @@ body {
   margin-top: 1px;
 }
 
-.about-content{
+/*.about-content{
   cursor: url(../img/sphere-cursor.png), auto;
 }
 #about{
   cursor: url(../img/sphere-cursor.png), auto;
-}
+}*/
 
 .funstuff{
   cursor: url(../img/classic-gamecontroller.png), auto;
